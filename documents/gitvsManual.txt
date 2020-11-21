@@ -30,7 +30,7 @@
   +---------------------------------------------------------------------------------------------------------------------+
   | pwd 				= verificar direccion actual.                                                   |
   | ls -l				= muestra los archivos de la direccion 						|
-  | touch namefile 			= crea un archivo 								|
+  | touch namefile 	      = crea un archivo 					      			|
   +---------------------------------------------------------------------------------------------------------------------+
  
   Comandos windows de consola 

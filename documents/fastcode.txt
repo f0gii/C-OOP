@@ -10,3 +10,4 @@ alt + direccionales (arriba, abajo)     = puedes mover la lina o lineas seleccio
 alt + direccionales (der, izq)          = puedes moverte de pestañas de codigo.
 shif + alt +direccionales (arr, abj)    = copia la linea ó lineas seleccionadas en la que estamos pocicionados.
 ctl + d                                 = generia un multi-cursor de la misma variable, salir con esp.
+ctl + '}'                               = comenta la linea donde se esta pocicionado.

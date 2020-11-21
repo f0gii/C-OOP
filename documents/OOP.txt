@@ -1,3 +1,49 @@
 
 
-    oop code manual
+    clases : agrupacion de seres o cosas ( objetos) con caracteristicas similares
+             en grupos(clases).
+
+    Objeto : Conjunto de atributos y metodos, un objeto se deriva de una clase.
+             - Atributos (caracteristicas, datos)
+             - Métodos (acciones, comportamiento)
+
+    Abstraccion : Extraccion de las caracteristicas esenciales de algo, ignorando
+                  los detalles superfluos.
+
+    Encapsulacion : Proceso por el que se ocultan los detalles del soporte de las
+                    caracteristicas de un abstraccion.
+
+    Herencia : La herencia es donde una clase nueva se crea a partir de una clase
+               existente, heredando todos sus atributos y metodos.
+
+    Polimorfismo : Cualidad que poseen los objetos para responder de distinto modo
+                   ante el mismo mensaje.
+
+|clas estructure|
+-------------------------------------------------------------------------------------
+class Nameclass{
+    private:                // atributos
+        int var;    
+    
+    public:                 // metodos
+        Nameclass(int);     // constructor
+        void function();
+};
+
+Nameclass::Nameclass(int _var){     // declarar el constructor
+    var = _var;
+}
+
+void Nameclass::function(){         //declarar la funcion de la clase
+    //code...
+}
+
+//declarando los objetos dentro del main.
+
+    Nameclass nameobject = Nameclass(5):
+
+    // otro metodos.
+
+    Nameclass nameobject(5);
+
+-------------------------------------------------------------------------------------
