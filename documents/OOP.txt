@@ -19,7 +19,7 @@
     Polimorfismo : Cualidad que poseen los objetos para responder de distinto modo
                    ante el mismo mensaje.
 
-|clas estructure|
+|class estructure|
 -------------------------------------------------------------------------------------
 class Nameclass{
     private:                // atributos
