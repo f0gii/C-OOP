@@ -1,0 +1,12 @@
+
+ctl + n                                 = nuevo archivo.
+ctl + alt + n                           = corre el programa.
+ctl + direccionales                     = puedes moverte de palabra por palabra.
+ctl + shif + direccionales              = puedes seleccionar las palabras por las que te muevas.
+ctl + shif + fin o inicio               = seleccionas todo el codigo hacia el fin o inicio desde la posicion actual.
+shit + fin ó inicio                     = seleccionas la linea de inicio a fin o viceversa.
+alt                                     = deja moverte por la barra de herramientas. (sales con esp)codigo.
+alt + direccionales (arriba, abajo)     = puedes mover la lina o lineas seleccionadas del codigo a otra posicion.
+alt + direccionales (der, izq)          = puedes moverte de pestañas de codigo.
+shif + alt +direccionales (arr, abj)    = copia la linea ó lineas seleccionadas en la que estamos pocicionados.
+ctl + d                                 = generia un multi-cursor de la misma variable, salir con esp.
