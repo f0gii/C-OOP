@@ -47,3 +47,21 @@ void Nameclass::function(){         //declarar la funcion de la clase
     Nameclass nameobject(5);
 
 -------------------------------------------------------------------------------------
+
+Pudes crear varios constructores, el programa reconocera cual es cual por medio de la cantidad de variables 
+en el constructor.
+
+    Fecha(int,int,int);
+    Fecha(long);
+
+    Tiempo::Tiempo(int _hours, int _minuts, int _seconds){
+        hours = _hours;
+        minuts = _minuts;
+        seconds = _seconds;
+    }
+
+    Tiempo::Tiempo(int secondsTime){
+        hours = secondsTime / 3600;
+        minuts = (secondsTime % 3600) / 60;
+        seconds = secondsTime % 60;
+    }
