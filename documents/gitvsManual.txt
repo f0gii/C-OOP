@@ -39,6 +39,7 @@
   | cd filename               = entra a la direccion nombrada (filename).
   | dir 				= muesta todas los archivos de la direccion actual.
   | mkdir 				= creas una direccion (carpeta).
+  | copy > Sample.txt         = crea un nuevo archivo.
   | explorer filename  	      = ejecuta o abre el archivo.
   | move filename foldername  = mueve el arvhivo a la carpeta nombrada
   | ren oldname newname       = renombra un archivo o carpeta.(en vsCode genera otro archivo igual, elimina el ateriro)
