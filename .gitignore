@@ -1,2 +1,4 @@
 doc/
-hola.txt
+01-class/*.exe
+02-SetGet/*.exe
+workspace.code-workspace
