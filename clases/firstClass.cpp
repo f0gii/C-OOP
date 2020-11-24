@@ -11,7 +11,7 @@ class Persona {
         Persona(int, string);
         void leer();
         void correr();
-};
+};   
 
 Persona::Persona(int _edad, string _nombre){
     edad = _edad;
