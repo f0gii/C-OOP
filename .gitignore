@@ -1,5 +1,3 @@
 doc/
-01-class/*.exe
-02-SetGet/*.exe
-
+*/*.exe
 *.code-workspace
