@@ -1,4 +1,5 @@
 doc/
 01-class/*.exe
 02-SetGet/*.exe
-workspace.code-workspace
+
+*.code-workspace
