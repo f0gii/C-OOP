@@ -20,10 +20,10 @@ Tiempo::Tiempo(int _hours, int _minuts, int _seconds){
     seconds = _seconds;
 }
 
-Tiempo::Tiempo(int tiempo){
-    hours = tiempo / 3600;
-    minuts = (tiempo % 3600) / 60;
-    seconds = tiempo % 60;
+Tiempo::Tiempo(int timeInSeconds){
+    hours = timeInSeconds / 3600;
+    minuts = (timeInSeconds % 3600) / 60;
+    seconds = timeInSeconds % 60;
 }
 
 void Tiempo::showTime(){
